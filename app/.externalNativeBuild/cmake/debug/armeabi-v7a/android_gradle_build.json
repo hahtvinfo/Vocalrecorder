@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/thanglv/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+	],
+	"libraries" : 
+	{
+		"native-audio-jni-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "native-audio-jni",
+			"buildCommand" : "/Users/thanglv/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target native-audio-jni",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/thanglv/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/thanglv/Android/sdk/ndk-bundle/sysroot -Dnative_audio_jni_EXPORTS  -isystem /Users/thanglv/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c99 -Wall -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/src/main/cpp/native-audio-jni.c",
+					"workingDirectory" : "/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-audio-jni.so",
+			"toolchain" : "15994878542051339738"
+		}
+	},
+	"toolchains" : 
+	{
+		"15994878542051339738" : 
+		{
+			"cCompilerExecutable" : "/Users/thanglv/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/thanglv/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+Executable : /Users/thanglv/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/src/main/cpp
+-B/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/.externalNativeBuild/cmake/debug/armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=/Users/thanglv/Android/sdk/ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=/Users/thanglv/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/thanglv/Android/sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

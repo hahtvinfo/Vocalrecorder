@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/thanglv/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/.externalNativeBuild/cmake/release/x86 --target clean"
+	],
+	"libraries" : 
+	{
+		"native-audio-jni-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "native-audio-jni",
+			"buildCommand" : "/Users/thanglv/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/.externalNativeBuild/cmake/release/x86 --target native-audio-jni",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/thanglv/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/thanglv/Android/sdk/ndk-bundle/sysroot -Dnative_audio_jni_EXPORTS  -isystem /Users/thanglv/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -std=c99 -Wall -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/src/main/cpp/native-audio-jni.c",
+					"workingDirectory" : "/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/build/intermediates/cmake/release/obj/x86/libnative-audio-jni.so",
+			"toolchain" : "15994878542051339738"
+		}
+	},
+	"toolchains" : 
+	{
+		"15994878542051339738" : 
+		{
+			"cCompilerExecutable" : "/Users/thanglv/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/thanglv/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+# ninja log v5
+2	527	0	CMakeFiles/native-audio-jni.dir/native-audio-jni.c.o	f0bda85b59c0b313
+12	89	0	build.ninja	7e1c8c2ce42a0c57
+528	659	0	/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-audio-jni.so	4560ec64dbef8944
+1	460	0	CMakeFiles/native-audio-jni.dir/native-audio-jni.c.o	f0bda85b59c0b313
+460	533	0	/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-audio-jni.so	4560ec64dbef8944
+11	515	0	CMakeFiles/native-audio-jni.dir/native-audio-jni.c.o	f0bda85b59c0b313
+515	600	0	/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-audio-jni.so	4560ec64dbef8944
+1	154	0	CMakeFiles/native-audio-jni.dir/native-audio-jni.c.o	f0bda85b59c0b313
+155	224	0	/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-audio-jni.so	4560ec64dbef8944

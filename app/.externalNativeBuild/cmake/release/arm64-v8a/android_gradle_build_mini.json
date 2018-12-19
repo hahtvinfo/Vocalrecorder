@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/thanglv/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "native-audio-jni-Release-arm64-v8a": {
+      "artifactName": "native-audio-jni",
+      "buildCommand": "/Users/thanglv/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/.externalNativeBuild/cmake/release/arm64-v8a --target native-audio-jni",
+      "abi": "arm64-v8a",
+      "output": "/Projects/2018_03_FREELANCER/06.AndroidAudio/VocalRecorder/app/build/intermediates/cmake/release/obj/arm64-v8a/libnative-audio-jni.so"
+    }
+  }
+}
